@@ -1,0 +1,131 @@
+body{
+
+}
+section{
+  display: grid;
+ 
+  width: auto;
+  height: 737px;
+  margin: 0 auto;
+}
+header{
+	position: relative;
+    height: 72px;
+    width: auto;
+    margin: 0 auto;
+    display: grid;
+
+ }
+
+}
+section#prim{
+	position: relative;
+	display: grid;
+	height: 700px;
+	width: auto;
+}
+.img-fluid{
+	position: absolute;
+	 height: 700px;
+	 height: auto;
+	 z-index: -1;
+
+}
+section#prim h1{
+	position: relative;
+	font-size: 164px;
+line-height: 200px;
+	color: white;
+	text-align: center;
+	top: 200px
+
+}
+section#prim h2{
+	position: relative;
+	font-size: 51px;
+line-height: 50px;
+	color: white;
+	text-align: center;
+	top: 200px
+}
+section#prim button{
+	position: relative;
+	align-items: center;
+	width: 173px;
+	height: 64px;
+	top: 230px;
+	left: 530px;
+}
+.btn btn-outline-success{
+	border-color: white;
+}
+section#vto{
+	position: relative;
+	height: 700px;
+	width: auto;
+
+}
+div#carouselExampleCaptions{
+	
+}
+section#vto h1{
+position: relative;
+
+}
+section#three p.fw-bolder{
+	position: absolute;
+	color: white;
+	left: 80px;
+	top: 1530px;
+	letter-spacing: 2px;
+	font-size: 74px;
+	font-family: Nerko One;
+}
+div.mb-3 label.form-label{
+	position: relative;
+	color: white;
+	font-size: 40px;
+	left: 40px;
+	top: 450px;
+}
+#exampleFormControlInput1{
+	position: relative;
+	width: 200px;
+	height: 25px;
+	left: 60px;
+	top: 450px;
+}
+div.mb-3 textarea.form-control{
+	position: relative;
+	width: 350px;
+	height: 50px;
+	left: 60px;
+	top: 450px;
+
+}
+section#information .img-fluid{
+	position: absolute;
+	height: 700px;
+	width: 1300px;
+}
+div.ratioratio-16x9 iframe{
+	position: absolute;
+	border: none;
+	width: 600px;
+	height: 320px;
+	left: 320px;
+	top: 200px;
+
+}
+.text-capitalize{
+	position: absolute;
+	color: black;
+	left: 40px;
+	top: 40px;
+	font-size: 45px;
+}
+section#information{
+	position: relative;
+	height: 700px;
+
+}
